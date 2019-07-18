@@ -1,0 +1,14 @@
+h1 {
+  color: DeepPink;
+}
+
+h3 {
+  color: Plum;
+}
+
+body {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRec8gLm9YzIiTqulbeQiinAXMu2UKu5C4ks7jOycWcQn5kXvV2-g");
+  font-family: 'Fira Sans', sans-serif;
+  font-family: 'Bahianita', cursive;
+  font-size: 90px;
+}
